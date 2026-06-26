@@ -1,0 +1,8 @@
+claude_model: claude-sonnet-4-6
+codex_model: gpt-4o
+max_rounds: 5
+output_dir: output
+logs_dir: logs
+prompts:
+  build: prompts/claude_build.txt
+  review: prompts/codex_review.txt
